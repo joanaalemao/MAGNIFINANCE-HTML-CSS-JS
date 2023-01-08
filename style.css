@@ -18,3 +18,25 @@ h1{
     color: rgb(35, 35, 85);
 
 }
+
+span{
+    font-size: .9rem;
+    color:#757373;
+}
+
+h6{
+    font-size: 1.1 rem;
+    color: rgd(24,24,49);
+}
+
+.img{
+    resize: initial;
+
+}
+
+ /* navigation  */
+
+nav{
+    display: flex;
+    flex-direction: row;
+}
